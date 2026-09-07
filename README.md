@@ -20,4 +20,4 @@ docker compose up
 ```
 
 
-ending
+closed
